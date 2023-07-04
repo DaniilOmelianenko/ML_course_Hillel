@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/Lesson_2/Home_Work_2_NumPy/iris.data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_2/Home_Work_2_NumPy/iris/iris.data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/hw_vis/Players.csv">
           <value>
             <Attribute>
@@ -24,6 +38,76 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/10users/user0031.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/10users/user0033.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/10users/user0050.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/10users/user0100.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/10users/user0127.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/10users/user0128.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/10users/user0237.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/150users/user0016.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/150users/user0740.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/150users/user1299.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Lesson_4/titanic_train.csv">
           <value>
             <Attribute>
@@ -42,6 +126,20 @@
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_5/Home_Work_5_Linear_Regression/wine+quality/winequality-red.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_5/Home_Work_5_Linear_Regression/wine+quality/winequality-white.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
