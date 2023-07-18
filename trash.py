@@ -1,9 +1,30 @@
-## KNeighborsClassifier() with defaults
-kn_sex_model = KNeighborsClassifier()
-kn_sex_model.fit(X_sex_train_scaled, y_sex_train)
+import seaborn as sns
 
-y_sex_pred_kn = kn_sex_model.predict(X_sex_validate_scaled)
+sns.set_theme(style="whitegrid", palette="muted")
 
-print(classification_report(y_sex_validate, y_sex_pred_kn))
+# Load the penguins dataset
+df = sns.load_dataset("penguins")
+print(type(df))
 
-value_results(model=kn_sex_model, name="KNeighborsClassifier+Clean_SEX", model_predict=y_sex_pred_kn, y_test=y_sex_validate)
+# Draw a categorical scatterplot to show each observation
+ax = sns.swarmplot(data=df, x="body_mass_g", y="sex", hue="species")
+ax.set(ylabel="")
+ax
+
+df = pd.DataFrame(
+    {
+        "Target": y_test,
+        "model_svc_default_predict": model_svc_default_predict,
+        "grid_model_svc_linear_kernel_predict": grid_model_svc_linear_kernel_predict,
+        "grid_model_svc_poly_kernel_predict": grid_model_svc_poly_kernel_predict,
+        "grid_model_svc_rbf_kernel_predict": grid_model_svc_rbf_kernel_predict,
+        "grid_model_svc_sigmoid_kernel_predict": grid_model_svc_sigmoid_kernel_predict,
+        "model_linear_svc_default_predict": model_linear_svc_default_predict,
+        "grid_model_linear_svc_predict": grid_model_linear_svc_predict,
+        "model_nu_svc_default_predict": model_nu_svc_default_predict,
+        "grid_model_nu_svc_linear_kernel_predict": grid_model_nu_svc_linear_kernel_predict,
+        "grid_model_nu_svc_poly_kernel_predict": grid_model_nu_svc_poly_kernel_predict,
+        "grid_model_nu_svc_rbf_kernel_predict": grid_model_nu_svc_rbf_kernel_predict,
+        "grid_model_nu_svc_sigmoid_kernel_predict": grid_model_nu_svc_sigmoid_kernel_predict
+    }
+)

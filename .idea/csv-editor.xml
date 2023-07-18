@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/Additional_Project/drive-download-20230622T204659Z-001/capstone_user_identification/150users/user0580.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Lesson_2/Home_Work_2_NumPy/iris.data.csv">
           <value>
             <Attribute>
@@ -94,7 +101,49 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/150users/user0089.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/150users/user0127.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/150users/user0263.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/150users/user0580.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/150users/user0647.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/150users/user0740.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_4/Home_Work_4_Pandas_(Data_Visualisation)_Feature_Engineering/train_project/drive-download-20230622T204659Z-001/capstone_user_identification/150users/user0756.csv">
           <value>
             <Attribute>
               <option name="separator" value=":" />
@@ -140,6 +189,34 @@
           <value>
             <Attribute>
               <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_6/Home_Work_6_ML metrics_Metric models/abalone/abalone.data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_7/Home_Work_7_Unbalance_Classes/glass+identification/glass.data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_8/Home_Work_8_Decision_Trees/credit+approval/crx.data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Lesson_9/Home_Work_9_Ensembles/data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
