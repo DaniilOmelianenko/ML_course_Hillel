@@ -1,0 +1,17 @@
+17. Seq-To-Seq
+Held: 08.08.2023 11:15
+
+Рассмотрели основы работы  Seq2Seq моделей
+
+Познакомились с реализацией Seq2Seq модели в Keras
+
+Рассмотрели работу с Seq2Seq моделью в HuggingFace
+
+https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+
+https://huggingface.co/transformers/v3.0.2/model_doc/t5.html
+
+https://huggingface.co/tasks/translation
+
+Lesson:
+https://www.youtube.com/watch?v=Ap7uHF8MoTc

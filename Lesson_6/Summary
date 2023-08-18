@@ -1,0 +1,25 @@
+6. ML metrics. Metric models
+Held: 27.06.2023 11:15
+
+Розглянули метрики, що використовуються для класифікації і регесії (precision, recall, F-measure, ROC, PRC...)
+
+Розглянули метод kNN та його параметри
+
+Розглянули метрики в kNN
+
+Вікно Парзена
+
+Рекомендація фільмів за допомогою kNN
+
+https://en.wikipedia.org/wiki/Precision_and_recall
+
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+
+https://towardsdatascience.com/performance-curve-more-intuitive-than-roc-prc-and-less-assumptive-than-threshold-metrics-391e777da566
+
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics
+
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.neighbors
+
+Lesson:
+https://www.youtube.com/watch?v=zl8J87Fdv5w

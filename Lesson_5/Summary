@@ -1,0 +1,19 @@
+5. Linear Regression, Regularization
+Held: 23.06.2023 11:15
+
+Познайомились із математичним підгрунтям побудови лінійних моделей для регресії та класифікації.
+
+Перенавчання.
+
+Регуляризація.
+
+Кроссвалідація
+
+https://www.statsmodels.org/dev/examples/notebooks/generated/ols.html
+
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model
+
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html?highlight=gridsearchcv
+
+Lesson:
+https://www.youtube.com/watch?v=qVLnlmPiBTY

@@ -1,0 +1,25 @@
+11. Clustering (part 2). Dimensionality reduction
+Held: 14.07.2023 11:15
+
+Метрики при кластеризації
+
+PCA, LDA,  NMF
+
+https://colab.research.google.com/drive/1GeVaxy1ieK-1zl7lCV8gIwmI7nFvI_LV#scrollTo=e2DXQj4Pmj-e
+
+https://docs.google.com/presentation/d/1qEjttrOs9M-Ty0zmLUVIzpJR75MnBWGmgD92cWNwkho/edit#slide=id.g602a69afeb_1_0
+
+https://en.wikipedia.org/wiki/Elbow_method_(clustering)
+
+http://datamining.rutgers.edu/publication/internalmeasures.pdf
+
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.decomposition
+
+https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D1%85_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82
+
+https://www.geeksforgeeks.org/non-negative-matrix-factorization/
+
+https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/
+
+Lesson:
+https://www.youtube.com/watch?v=2TxW9BNmxXQ
